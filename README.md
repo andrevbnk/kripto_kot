@@ -2,6 +2,7 @@
 
 test-task, use cryptocompare API WebSockets
 
+
 https://min-api.cryptocompare.com/
 
 ## Project setup
